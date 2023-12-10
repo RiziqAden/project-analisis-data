@@ -46,7 +46,7 @@ max_date = bike_df["dteday"].max()
 
 with st.sidebar:
     # Menambahkan logo 
-    st.image("https://github.com/RiziqAden/projeck-analisis-data-python/raw/main/Gambar-2.png")
+    st.image("https://github.com/RiziqAden/project-analisis-data/raw/main/Gambar-2.png")
     
     # Mengambil start_date & end_date dari date yang di input
     start_date, end_date = st.date_input(
