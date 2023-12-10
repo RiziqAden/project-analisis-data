@@ -45,9 +45,8 @@ min_date = bike_df["dteday"].min()
 max_date = bike_df["dteday"].max()
 
 with st.sidebar:
-    # Menambahkan logo 
-    st.image("https://github.com/RiziqAden/project-analisis-data/raw/main/Gambar-2.png")
-    
+    # Menambahkan logo
+    st.image("https://cdn.dribbble.com/users/557720/screenshots/4350719/bicycle_1.jpg")
     # Mengambil start_date & end_date dari date yang di input
     start_date, end_date = st.date_input(
         label='Rentang Waktu',min_value=min_date,
