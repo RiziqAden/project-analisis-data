@@ -14,4 +14,7 @@ streamlit run dashboard.py
 ```
 # Link menuju dashboard
 https://mrsa-project-analysis-data.streamlit.app/
-<img width="960" alt="image" src="https://github.com/RiziqAden/project-analisis-data/assets/115126841/33a6ccd8-2b2f-4d6b-b6a7-72baf700fc78">
+<img width="750" alt="image" src="https://github.com/RiziqAden/project-analisis-data/assets/115126841/33a6ccd8-2b2f-4d6b-b6a7-72baf700fc78">
+# link menuju Github saya
+https://github.com/RiziqAden/project-analisis-data
+
